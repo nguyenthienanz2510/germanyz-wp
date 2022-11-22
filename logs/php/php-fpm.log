@@ -10,3 +10,11 @@
 [20-Nov-2022 21:51:09] NOTICE: exiting, bye-bye!
 [21-Nov-2022 22:24:50] NOTICE: fpm is running, pid 63859
 [21-Nov-2022 22:24:50] NOTICE: ready to handle connections
+[22-Nov-2022 23:35:08] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[22-Nov-2022 23:35:08] ERROR: FPM initialization failed
+[22-Nov-2022 23:35:09] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[22-Nov-2022 23:35:09] ERROR: FPM initialization failed
+[22-Nov-2022 23:35:10] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[22-Nov-2022 23:35:10] ERROR: FPM initialization failed
+[22-Nov-2022 23:35:11] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[22-Nov-2022 23:35:11] ERROR: FPM initialization failed

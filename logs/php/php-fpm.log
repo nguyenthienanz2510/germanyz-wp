@@ -18,3 +18,27 @@
 [22-Nov-2022 23:35:10] ERROR: FPM initialization failed
 [22-Nov-2022 23:35:11] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
 [22-Nov-2022 23:35:11] ERROR: FPM initialization failed
+[23-Nov-2022 19:38:29] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[23-Nov-2022 19:38:29] ERROR: FPM initialization failed
+[23-Nov-2022 19:38:30] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[23-Nov-2022 19:38:30] ERROR: FPM initialization failed
+[23-Nov-2022 19:38:30] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[23-Nov-2022 19:38:30] ERROR: FPM initialization failed
+[23-Nov-2022 19:38:31] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[23-Nov-2022 19:38:31] ERROR: FPM initialization failed
+[25-Nov-2022 00:20:47] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 00:20:47] ERROR: FPM initialization failed
+[25-Nov-2022 00:20:48] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 00:20:48] ERROR: FPM initialization failed
+[25-Nov-2022 00:20:49] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 00:20:49] ERROR: FPM initialization failed
+[25-Nov-2022 00:20:49] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 00:20:49] ERROR: FPM initialization failed
+[25-Nov-2022 20:09:52] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 20:09:52] ERROR: FPM initialization failed
+[25-Nov-2022 20:09:53] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 20:09:53] ERROR: FPM initialization failed
+[25-Nov-2022 20:09:53] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 20:09:53] ERROR: FPM initialization failed
+[25-Nov-2022 20:09:54] ERROR: Another FPM instance seems to already listen on /Users/nguyenthienan/Library/Application Support/Local/run/NUfw6BrgW/php/php-fpm.socket
+[25-Nov-2022 20:09:54] ERROR: FPM initialization failed
